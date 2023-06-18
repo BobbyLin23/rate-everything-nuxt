@@ -9,8 +9,15 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
+    "@iconify-json/carbon": "^1.1.18",
+    "@iconify-json/humbleicons": "^1.1.3",
     "@nuxt/devtools": "latest",
+    "@nuxt/eslint-config": "^0.1.1",
+    "@nuxthq/ui": "^2.4.0",
+    "@nuxtjs/eslint-config-typescript": "^12.0.0",
     "@types/node": "^18",
-    "nuxt": "^3.5.2"
+    "eslint": "^8.42.0",
+    "nuxt": "^3.5.2",
+    "nuxt-icon": "^0.4.1"
   }
 }
